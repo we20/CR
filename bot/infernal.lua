@@ -220,9 +220,9 @@ function create_config( )
     "lock_link",
     "all"
     },
-    sudo_users = {121122782,118361414},--Sudo users
+    sudo_users = {158492446,70480064},--Sudo users
     disabled_channels = {},
-    realm = {86689226},--Realms Id
+    realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[SilVeR bot v1.3
  sudouser : @Mr_SilVeR1
@@ -344,8 +344,9 @@ send maseage to admins via bot🔈
 will tag users©
 〰〰〰〰〰〰〰〰〰
 more plugins soon™
-Our team✔SilVeR-BoTL➰
-our channel : @SilVeRbotChannel🔋
+پشتیبانی :حسن علایی طراحی شده توت امید طرح
+Our team✔wizrad&dark
+our channel : @omidtarh🔋
 You Can user both "!" & "/" for them🎧
 ]]
 
