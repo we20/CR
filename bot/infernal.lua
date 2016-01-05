@@ -346,7 +346,7 @@ will tag users©
 more plugins soon™
 پشتیبانی :حسن علایی طراحی شده توت امید طرح
 Our team✔wizrad&dark
-our channel : @omidtarh🔋
+our  : @omidtarh🔋
 You Can user both "!" & "/" for them🎧
 ]]
 
